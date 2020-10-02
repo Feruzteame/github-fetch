@@ -58,6 +58,4 @@
 
 ## 6.finaltouch
 
-- This user story is developed on branch `readme`.
-- This branch is merged to `master` branch after completion.
 - check and fix bugs
