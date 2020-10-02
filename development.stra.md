@@ -48,3 +48,16 @@
 - This branch is merged to `master` branch after completion.
 - style html file
 - style class create in js file
+
+## 5.ReadMe
+
+- This user story is developed on branch `readme`.
+- This branch is merged to `master` branch after completion.
+- describe the project
+- take screenshot 
+
+## 6.finaltouch
+
+- This user story is developed on branch `readme`.
+- This branch is merged to `master` branch after completion.
+- check and fix bugs
