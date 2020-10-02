@@ -12,9 +12,9 @@ This min project is a kind of practice how to use
 In this project i try to fetch basic data from github
 
 * basic github user profile
-* 30 repository of the user
+* 30 **public** repository of the user
 
-To use this min website you have to put any git-hub users/organization  <span style="color:red"> **username** </span>  and click the button you wel get basic profile information and 30 repository of the users/organization.
+To use this min website you have to put any git-hub users/organization **username** and click the button you wel get basic profile information and 30 repository of the users/organization.
 
 
 ![Screenshot 2020-10-02 at 12 28 24](https://user-images.githubusercontent.com/59234162/94915020-69bfde00-04ac-11eb-9861-20251f037f2e.png)
